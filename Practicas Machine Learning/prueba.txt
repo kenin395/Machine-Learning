@@ -1,0 +1,1 @@
+with open(ruta_ej1, 'w') as f: f.write("Hola, este es un texto de prueba para Jupyter.")
